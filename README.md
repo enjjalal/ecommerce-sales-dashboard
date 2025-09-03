@@ -1,1 +1,2 @@
-![Alt text](Ecommerce_Dashboard_v06.pdf)
+![Alt text](images/photo1.png)
+![Alt text](images/photo2.png)
